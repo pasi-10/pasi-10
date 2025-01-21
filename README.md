@@ -1,55 +1,23 @@
-# 👋 Hi, I'm Pasindu Ayeshmantha Hettiarachchi!
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-Welcome to my GitHub profile! I'm an **Associate Power Apps Developer** passionate about building innovative and user-friendly business solutions using Microsoft Power Platform. I enjoy solving problems, automating processes, and ensuring seamless user experiences in my applications.
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-## 🚀 About Me
+###
 
-- 🎯 **Current Role:** Freelance Power Apps Developer on Fiverr ([pasi10](https://www.fiverr.com/pasi10))
-- 🌟 **Expertise:** Creating customized Canvas Power Apps for diverse business needs
-- 🛠️ **Experience:** 
-  - Building **factory production tracking systems** using Power Apps
-  - Designing workflows with **Power Automate** for seamless automation
-  - Developing solutions for **SharePoint-integrated** applications
-- ✨ Known for **attention to detail**, **professionalism**, and **exceptional client feedback**
+<h1 align="center">hey there 👋</h1>
 
----
+###
 
-## 🛠️ Tech Stack
+<h3 align="left">👩‍💻  About Me</h3>
 
-- **Power Platform**: Power Apps, Power Automate
-- **Microsoft 365**: SharePoint, Excel
-- **Languages**: JavaScript, JSON, HTML, CSS
-- **Tools**: Notion, hSenid HRIS
+###
 
----
+<p align="left">I'm Pasindu Ayeshmantha Hettiarachchi<br><br>- 🔭 I’m working as an Associate Power Apps Developer</p>
 
-## 🌱 Learning Goals
-
-I'm currently enhancing my skills in:
-- Advanced **Power Platform development**
-- **English communication** for better professional interaction
-- Exploring **UI/UX design** to improve app aesthetics
-
----
-
-## 🎨 Hobbies & Interests
-
-Beyond coding, I love:
-- Singing 🎤 | Dancing 💃 | Drawing ✍️ | Thinking about **the universe** 🌌
-- Following sports like **cricket** 🏏 and **football** ⚽
-- Blogging about **Power Apps tips and tricks** 📝
-
----
-
-## 📫 Get in Touch!
-
-- 🌐 Portfolio: [Coming Soon!](#)  
-- 💼 Fiverr: [pasi10](https://www.fiverr.com/pasi10)  
-- 💌 Email: [pasindu.hettiarachchi@example.com](mailto:pasindu.hettiarachchi@example.com)  
-- 💡 LinkedIn: [LinkedIn Profile](#)
-
----
-
-🚀 **Let's build something amazing together!**
+###
